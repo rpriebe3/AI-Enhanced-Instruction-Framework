@@ -4,7 +4,7 @@ This repository hosts the AI-Enhanced Instruction Framework, a teacher-facing mo
 
 ## Current version
 
-- **Framework PDF (v1.0)**: [AI-Enhanced Instruction Framework v1.0](docs/AI-Enhanced-Instruction-Framework-v1.0.pdf)
+- **Framework PDF (v1.0)**: [AI-Enhanced Instruction Framework v1.0](docs/Priebe - AI-Enhanced Instruction Framework-v1.0.pdf)
 
 ## How to cite
 
